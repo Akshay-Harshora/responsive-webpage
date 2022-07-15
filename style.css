@@ -1,0 +1,168 @@
+#uv {
+    background-color: black;
+    padding: 10px;
+    border-radius: 2px;
+    color: white;
+
+}
+
+.bigfont {
+    font-size: 72px;
+}
+
+#bigtext {
+    font-size: 60px;
+}
+
+#ptext {
+    font-size: 20px;
+}
+
+#video {
+    border-radius: 50%;
+    padding: 30px;
+
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #888888;
+}
+
+#money {
+
+    border-radius: 50%;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #888888;
+}
+
+#invoice {
+    border-radius: 50%;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #888888;
+}
+
+.slider {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.services {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.whyjoin {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.contactus {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.oservices {
+    padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 1440px) {
+    
+
+    .slider {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    .services {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    .whyjoin {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    .contactus {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    
+    .footer {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    .oservices {
+        padding-bottom: 15px;
+    }
+    
+
+}
+@media only screen and (max-width: 680px) {
+    .slider {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .services {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .whyjoin {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .contactus {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    
+    .footer {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .oservices {
+        padding-bottom: 5px;
+    }
+    
+
+}
+@media only screen and (max-width: 1024px) {
+    .slider {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .services {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .whyjoin {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .contactus {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .footer {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .oservices {
+        padding-bottom: 10px;
+    }
+        
+}
